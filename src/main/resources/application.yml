@@ -1,0 +1,8 @@
+okta:
+  oauth2:
+    issuer: https://localhost/
+    client-id: {chai}
+    client-secret: 22
+
+server:
+  port: 8080
